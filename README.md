@@ -30,7 +30,7 @@
 
 ### ⏳ Wakatime
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a4ff2d2-5e73-4ace-8166-4480d4cc821e/0987a956-6b6d-460b-9f69-69f0c763313b.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a336893-9ad6-4b39-bd9e-aed265d52768/ab6be72e-289b-4e96-b7ce-79d07dc349ed.png" /></a>
 
 <div>
   <a href="https://nomatterjun.github.io/">
