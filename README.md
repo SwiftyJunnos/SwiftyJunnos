@@ -27,20 +27,6 @@
 
 <br/>
 
-### ⏳ Wakatime
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a336893-9ad6-4b39-bd9e-aed265d52768/ab6be72e-289b-4e96-b7ce-79d07dc349ed.png" /></a>
-
-<div>
-  <a href="https://nomatterjun.vision/">
-<img
-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&link=https://nomatterjun.vision/"
-style="height : auto; margin-left : 10px; margin-right : 10px;" align="left"/>
-</a>
-</div>
-
-<br/>
-
 [Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
 [C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
