@@ -15,7 +15,7 @@
 
 ### 💾 Projects
 
-- 🗺️ **감성일지도**: 당신의 감성을 지도로 기억하다. [[GitHub](https://github.com/boostcampwm2023/iOS01-Maybe-Gamsung)] (2023.11 ~ 2023.12) <br/>
+- 🎶 **MusicSpot**: 당신의 여정을 음악과 함께 기억하다.. [[GitHub](https://github.com/boostcampwm2023/iOS01-MusicSpot)] (2023.11 ~ 2023.12) <br/>
 - 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] (2023.01 ~ ) <br/>
 - 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)] <br/>
 
