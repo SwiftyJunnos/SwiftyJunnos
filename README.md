@@ -12,7 +12,6 @@
 
 - 🎶 **MusicSpot**: 당신의 여정을 음악과 함께 기억하다.. [[GitHub](https://github.com/boostcampwm2023/iOS01-MusicSpot)] (2023.11 ~ 2023.12) <br/>
 - 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] (2023.01 ~ 2023.07) <br/>
-- 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)] <br/>
 
 ### 📝 Recent Posts
 - 2023.12.26 | **📱 iOS - 모듈화와 Clean Architecture** - [[Link](https://www.nomatterjun.vision/blog/iOS/13.Modularization)] <br/>
