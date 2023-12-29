@@ -3,11 +3,6 @@
 
 ![Swift] ![C] ![Python]
 
-### 📚 Education
-
-- **인천대학교 정보기술대학 임베디드시스템공학과 `졸업`** (2015.03 ~ 2023.08)<br/>
-- **앨런 Swift문법 마스터 스쿨 `수료`** (2022.09 ~ 2022.12)<br/>
-
 ### 👨‍💻 Experiences
 
 - **인천대학교 정보전산원 앱센터 `14.5기 스터디원` `15기 기술지원`** (2022.10 ~ 2023.08)<br/>
@@ -20,11 +15,11 @@
 - 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)] <br/>
 
 ### 📝 Recent Posts
-- 2023.08.10 | **🍎 Swift - Regex.02** - [[Link](https://www.nomatterjun.vision/blog/Swift/19.Regex.02)] <br/>
-- 2023.07.17 | **🍎 Swift - Regex.01** - [[Link](https://www.nomatterjun.vision/blog/Swift/18.Regex.01)] <br/>
-- 2023.06.20 | **📱 iOS - Sign in with Apple** - [[Link](https://www.nomatterjun.vision/blog/iOS/12.SignInWithApple)] <br/>
-- 2023.06.12 | **🎊 WWDC23 - SwiftData** - [[Link](https://nomatterjun.github.io/post/WWDC23%2F2023-06-12-WWDC23-03)] <br/>
-- 2023.06.08 | **🍎 Swift - WidgetKit** - [[Link](https://nomatterjun.github.io/post/Swift%2F2023-06-08-Swift30)] <br/>
+- 2023.12.26 | **📱 iOS - 모듈화와 Clean Architecture** - [[Link](https://www.nomatterjun.vision/blog/iOS/13.Modularization)] <br/>
+- 2023.12.11 | **🍎 Swift - 추상화로 협업하기** - [[Link](https://www.nomatterjun.vision/blog/Swift/27.Abstraction_Coop)] <br/>
+- 2023.06.20 | **🍎 Swift - Decoder의 Container** - [[Link](https://www.nomatterjun.vision/blog/Swift/26.DecodingContainer)] <br/>
+- 2023.06.12 | **🍎 Swift - Domain 레이어의 필요성** - [[Link](https://www.nomatterjun.vision/blog/Swift/25.DomainLayer)] <br/>
+- 2023.06.08 | **🍎 Swift - MusicSpot CI 적용기** - [[Link](https://www.nomatterjun.vision/blog/Swift/24.MusicSpot_CI)] <br/>
 
 <br/>
 
