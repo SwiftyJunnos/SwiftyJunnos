@@ -12,7 +12,7 @@
 
 - 🎶 **MusicSpot** : 당신의 여정을 음악과 함께 기억하다.. [[GitHub](https://github.com/boostcampwm2023/iOS01-MusicSpot)] (2023.11 ~ 2023.12) <br/>
 - 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] (2023.01 ~ 2023.07) <br/>
-- 📱 **ComposerKit** : Make your UICollectionViewCompositionalLayout in DSL style! [[GitHub](https://github.com/SwiftyJunnos/ComposerKit)] <br/>
+- 📱 **ComposerKit** : Make your `UICollectionViewCompositionalLayout` in DSL style! [[GitHub](https://github.com/SwiftyJunnos/ComposerKit)] <br/>
 
 ### 📝 Recent Posts
 - 2024.01.02 | **🍎 Swift - 코디네이터 패턴 제대로 이해하기** - [[Link](https://www.nomatterjun.vision/blog/Swift/29.Coordinator02)] <br/>
