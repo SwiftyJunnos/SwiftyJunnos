@@ -10,8 +10,8 @@
 
 ### 💾 Projects
 
-- 🎶 **MusicSpot** : 당신의 여정을 음악과 함께 기억하다.. [[GitHub](https://github.com/boostcampwm2023/iOS01-MusicSpot)] (2023.11 ~ 2023.12) <br/>
-- 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] (2023.01 ~ 2023.07) <br/>
+- 🎶 **MusicSpot** : 당신의 여정을 음악과 함께 기억하다. [[AppStore](https://apps.apple.com/kr/app/musicspot/id6474530486?l=en-GB)] [[GitHub](https://github.com/boostcampwm2023/iOS01-MusicSpot)] (2023.11 ~ 2023.12) <br/>
+- 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[AppStore](https://apps.apple.com/kr/app/favor-%ED%8E%98%EC%9D%B4%EB%B2%84/id6449257998?l=en-GB)] [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] (2023.01 ~ 2023.07) <br/>
 - 📱 **ComposerKit** : Make your `UICollectionViewCompositionalLayout` in DSL style! [[GitHub](https://github.com/SwiftyJunnos/ComposerKit)] <br/>
 
 ### 📝 Recent Posts
