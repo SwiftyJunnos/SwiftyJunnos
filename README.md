@@ -1,7 +1,7 @@
 
 <br/>
 
-![Swift] ![C] ![Python]
+![Swift] ![Python] ![C]
 
 ### 👨‍💻 Experiences
 
