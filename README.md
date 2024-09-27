@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwiftyJunnos%2Fhit-counter&count_bg=%23E9ECBF&title_bg=%23599E63&icon=apple.svg&icon_color=%23E6E6E6&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwiftyJunnos%2Fhit-counter&count_bg=%2383AC63&title_bg=%23555555&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=%F0%9F%91%8B+Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
