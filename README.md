@@ -5,7 +5,7 @@
 
 ### 🫶 I'm interested in...
 
-- **NLP** (Pipeline & AIOps)
+- **NLP**
 - **Apple platform apps** (iOS, etc)
 
 ### 👨‍💻 Experiences
