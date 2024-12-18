@@ -24,6 +24,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwiftyJunnos%2Fhit-counter&count_bg=%2383AC63&title_bg=%23555555&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=%F0%9F%91%8B+Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![autocomplete](https://codeium.com/badges/user/junnos/autocomplete)](https://codeium.com/profile/junnos)
+
 <br/>
 
 [Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
